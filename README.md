@@ -1,20 +1,10 @@
 ---
-layout: Exercise
 title: Hero vs Monster in Dungeon
 ---
 
-## Learning Competencies
-
-- Using input/ output from console
-- Modeling real case scenario with Javascript
 
 ## Summary
 
-We will create simple game named Hero vs Monster. The Hero have misson to beat all monster on the dungeon. The Hero will fight one monster on every stage in the dungeon. if Hero out of dungeon alive than you win, if died then you lose the game. The dungeon arena is like a tunnel.
-
-To play the game hero need to choose skill. there is 2 skills that can be use on game. the skills are regeneration and ultimate sword. but hero just get 1 skill that they have to choose before start the game.
-
-We provide sceleton code that might be usefule for the development. our focus is logic in game.
 
 this the simulation from the game :)
 
@@ -67,8 +57,3 @@ after that make algorithm that require some rule in the game.
 
 Use libaray [ASCII art ini](https://www.npmjs.com/package/ascii-art) if you want experiment with color, font, etc to you console.
 
-### Release 2 : Think of Fun Additions
-
-for the experiment you can add some skill to hero, or make monster more stronger like 3 hit kill to make game more exciting
-
-is your code make it easier to add feature or harder?
